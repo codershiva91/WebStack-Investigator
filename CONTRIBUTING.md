@@ -117,7 +117,7 @@ The collected information is processed through fingerprinting, classification an
                          ▼                         ▼
                 ┌──────────────────┐      ┌──────────────────┐
                 │     DATABASE     │      │  REPORT ENGINE   │
-                │      MariaDB     │      │                  │
+                │                  │      │                  │
                 │                  │      │ • JSON           │
                 │ • Scans          │      │ • HTML           │
                 │ • Resources      │      │ • PDF            │
