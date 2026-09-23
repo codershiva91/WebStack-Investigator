@@ -1,6 +1,7 @@
 # WebStack Inspector — System Architecture
 
 **Project:** Design and Development of Framework for Determination & Categorization of Online Gaming Applications
+
 **Module:** WebStack Inspector
 **Architecture Version:** v1.0-MVP
 **Status:** Baseline Architecture
