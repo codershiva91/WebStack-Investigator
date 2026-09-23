@@ -281,7 +281,9 @@ The system is designed to make findings **traceable and explainable**.
 | ----------- | ---------------------------------------------------- |
 | Renuka      | Static Analysis & Resource Extraction                |
 | Shivam      | Dynamic Analysis & Network Intelligence              |
-| Kartikeya   | Fingerprinting, Classification, Evidence & Reporting |
+| Kartikeya   | Fingerprinting and Classification
+
+ Common for all three - Evidence & Reporting 
 
 ---
 
